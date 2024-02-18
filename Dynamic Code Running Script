@@ -1,2 +1,2 @@
 mpicc -o Dynamic Dynamic.c
-mpirum -n 17 ./Dynamic
+mpirum -n 4 ./Dynamic

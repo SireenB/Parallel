@@ -1,0 +1,2 @@
+mpicc -o Dynamic Dynamic.c
+mpirum -n 17 ./Dynamic

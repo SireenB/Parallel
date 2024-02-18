@@ -1,2 +1,2 @@
 mpicc -o Static Static.c
-mpirum -n 17 ./Static
+mpirum -n 4 ./Static

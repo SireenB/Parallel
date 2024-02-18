@@ -1,0 +1,2 @@
+mpicc -o Static Static.c
+mpirum -n 17 ./Static
